@@ -1,0 +1,27 @@
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\Whis Launcher.exe.config
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\Whis Launcher.exe
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\Whis Launcher.pdb
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Buffers.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.CodeDom.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Memory.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Resources.Extensions.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.AssemblyReference.cache
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Dashboard.Form3.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Dashboard.Form4.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Dashboard.Form5.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Whis_Launcher.Properties.Resources.resources
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.GenerateResource.cache
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.CopyComplete
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Whis Launcher.exe
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\Whis Launcher.pdb
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\orcun\Desktop\WhisssLauncherr\Dashboard\Dashboard\obj\Debug\WhisLauncher.csproj.Fody.CopyLocal.cache
