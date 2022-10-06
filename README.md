@@ -14,6 +14,6 @@ features:
 8-) working status of modes (update, working, stopped, maintenance)
 9-) the log screen
 
-and more!!!
+and more!!
 
 ![unknown](https://user-images.githubusercontent.com/58307867/194410876-662645e7-c5af-41c4-adad-737bdadb25d0.png)
